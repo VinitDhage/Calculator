@@ -24,7 +24,7 @@ The Calculator project is a web-based calculator application that performs basic
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/VinitDhage/Calculator
+    git clone https://github.com/VinitDhage/Calculator.git
     ```
 
 2. Open the `index.html` file in your preferred web browser to access the calculator.
